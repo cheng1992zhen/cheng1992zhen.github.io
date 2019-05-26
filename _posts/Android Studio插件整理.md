@@ -1,3 +1,15 @@
+---
+layout:     post
+title:      Android Studio插件整理
+subtitle:   android studio 插件
+date:       2019-05-26
+author:     BY 
+header-img: img/post-bg-universe.jpg
+catalog: true
+tags:
+    - Blog
+---
+
 来自:https://ydmmocoo.github.io/2016/06/28/Android-Studio%E6%8F%92%E4%BB%B6%E6%95%B4%E7%90%86/
 
 现在Android的开发者基本上都使用Android Studio进行开发(如果你还在使用eclipse那也行，毕竟你乐意怎么样都行)。使用好Android Studio插件能大量的减少我们的工作量。
