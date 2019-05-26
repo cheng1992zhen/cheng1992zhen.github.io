@@ -3,7 +3,7 @@ layout:     post
 title:      Android Studio插件整理
 subtitle:   android studio 插件
 date:       2019-05-26
-author:     BY 
+author:     BY chengzhen
 header-img: img/post-bg-universe.jpg
 catalog: true
 tags:
