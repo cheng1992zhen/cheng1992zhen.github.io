@@ -112,3 +112,5 @@ friends: [
         href: "https://love2.io/"
     }
 ]
+
+theme: jekyll-theme-cayman
